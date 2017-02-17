@@ -1,5 +1,6 @@
 import React from 'react';
 import List from './List';
+import ShoppingListForm from './ShoppingListForm';
 
 class ShoppingListApp extends React.Component{
 	render(){
